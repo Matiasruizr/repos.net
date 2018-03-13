@@ -1,0 +1,7 @@
+C:\Users\cetecom\source\repos\ClaseObjetos\ClaseObjetos\bin\Debug\ClaseObjetos.exe.config
+C:\Users\cetecom\source\repos\ClaseObjetos\ClaseObjetos\bin\Debug\ClaseObjetos.exe
+C:\Users\cetecom\source\repos\ClaseObjetos\ClaseObjetos\bin\Debug\ClaseObjetos.pdb
+C:\Users\cetecom\source\repos\ClaseObjetos\ClaseObjetos\obj\Debug\ClaseObjetos.csprojResolveAssemblyReference.cache
+C:\Users\cetecom\source\repos\ClaseObjetos\ClaseObjetos\obj\Debug\ClaseObjetos.csproj.CoreCompileInputs.cache
+C:\Users\cetecom\source\repos\ClaseObjetos\ClaseObjetos\obj\Debug\ClaseObjetos.exe
+C:\Users\cetecom\source\repos\ClaseObjetos\ClaseObjetos\obj\Debug\ClaseObjetos.pdb
