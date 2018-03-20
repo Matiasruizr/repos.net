@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BASE_ALUMNOSModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="ALUMNO">
+    <Key>
+      <PropertyRef Name="ID_ALUMNO" />
+    </Key>
+    <Property Name="ID_ALUMNO" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="RUT" Type="nvarchar" MaxLength="15" Nullable="false" />
+    <Property Name="PRIMER_NOMBRE" Type="nvarchar" MaxLength="15" Nullable="false" />
+    <Property Name="SEGUNDO_NOMBRE" Type="nvarchar" MaxLength="15" />
+    <Property Name="PRIMER_APELLIDO" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="SEGUNDO_APELLIDO" Type="nvarchar" MaxLength="20" />
+    <Property Name="FECHA_NACIMIENTO" Type="date" Nullable="false" />
+    <Property Name="FECHA_INGOROESO" Type="date" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="BASE_ALUMNOSModelStoreContainer">
+    <EntitySet Name="ALUMNO" EntityType="Self.ALUMNO" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

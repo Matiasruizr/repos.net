@@ -1,0 +1,6 @@
+C:\Users\cetecom\source\repos\ProyectoEnBlanco\aplicacion.modelo\bin\Debug\aplicacion.modelo.dll
+C:\Users\cetecom\source\repos\ProyectoEnBlanco\aplicacion.modelo\bin\Debug\aplicacion.modelo.pdb
+C:\Users\cetecom\source\repos\ProyectoEnBlanco\aplicacion.modelo\obj\Debug\aplicacion.modelo.csprojResolveAssemblyReference.cache
+C:\Users\cetecom\source\repos\ProyectoEnBlanco\aplicacion.modelo\obj\Debug\aplicacion.modelo.csproj.CoreCompileInputs.cache
+C:\Users\cetecom\source\repos\ProyectoEnBlanco\aplicacion.modelo\obj\Debug\aplicacion.modelo.dll
+C:\Users\cetecom\source\repos\ProyectoEnBlanco\aplicacion.modelo\obj\Debug\aplicacion.modelo.pdb

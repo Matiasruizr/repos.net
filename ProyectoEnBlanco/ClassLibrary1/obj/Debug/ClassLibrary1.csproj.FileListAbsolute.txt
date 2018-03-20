@@ -1,0 +1,6 @@
+C:\Users\cetecom\source\repos\ProyectoEnBlanco\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\cetecom\source\repos\ProyectoEnBlanco\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\cetecom\source\repos\ProyectoEnBlanco\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\cetecom\source\repos\ProyectoEnBlanco\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\cetecom\source\repos\ProyectoEnBlanco\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\cetecom\source\repos\ProyectoEnBlanco\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
