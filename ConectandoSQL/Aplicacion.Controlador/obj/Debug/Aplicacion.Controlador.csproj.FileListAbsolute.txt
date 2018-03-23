@@ -1,0 +1,11 @@
+C:\Users\cetecom\source\repos\ConectandoSQL\Aplicacion.Controlador\bin\Debug\Aplicacion.Controlador.dll
+C:\Users\cetecom\source\repos\ConectandoSQL\Aplicacion.Controlador\bin\Debug\Aplicacion.Controlador.pdb
+C:\Users\cetecom\source\repos\ConectandoSQL\Aplicacion.Controlador\bin\Debug\Aplicacion.DALC.dll
+C:\Users\cetecom\source\repos\ConectandoSQL\Aplicacion.Controlador\bin\Debug\EntityFramework.dll
+C:\Users\cetecom\source\repos\ConectandoSQL\Aplicacion.Controlador\bin\Debug\Aplicacion.DALC.pdb
+C:\Users\cetecom\source\repos\ConectandoSQL\Aplicacion.Controlador\bin\Debug\Aplicacion.DALC.dll.config
+C:\Users\cetecom\source\repos\ConectandoSQL\Aplicacion.Controlador\bin\Debug\EntityFramework.xml
+C:\Users\cetecom\source\repos\ConectandoSQL\Aplicacion.Controlador\obj\Debug\Aplicacion.Controlador.csprojResolveAssemblyReference.cache
+C:\Users\cetecom\source\repos\ConectandoSQL\Aplicacion.Controlador\obj\Debug\Aplicacion.Controlador.csproj.CoreCompileInputs.cache
+C:\Users\cetecom\source\repos\ConectandoSQL\Aplicacion.Controlador\obj\Debug\Aplicacion.Controlador.dll
+C:\Users\cetecom\source\repos\ConectandoSQL\Aplicacion.Controlador\obj\Debug\Aplicacion.Controlador.pdb

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BASE_ALUMNOSModelStoreContainer" CdmEntityContainer="BASE_ALUMNOSEntities">
+    <EntitySetMapping Name="ALUMNOes">
+      <EntityTypeMapping TypeName="BASE_ALUMNOSModel.ALUMNO">
+        <MappingFragment StoreEntitySet="ALUMNO">
+          <ScalarProperty Name="ID_ALUMNO" ColumnName="ID_ALUMNO" />
+          <ScalarProperty Name="RUT" ColumnName="RUT" />
+          <ScalarProperty Name="PRIMER_NOMBRE" ColumnName="PRIMER_NOMBRE" />
+          <ScalarProperty Name="SEGUNDO_NOMBRE" ColumnName="SEGUNDO_NOMBRE" />
+          <ScalarProperty Name="PRIMER_APELLIDO" ColumnName="PRIMER_APELLIDO" />
+          <ScalarProperty Name="SEGUNDO_APELLIDO" ColumnName="SEGUNDO_APELLIDO" />
+          <ScalarProperty Name="FECHA_NACIMIEMTO" ColumnName="FECHA_NACIMIEMTO" />
+          <ScalarProperty Name="FECHA_INGRESO" ColumnName="FECHA_INGRESO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

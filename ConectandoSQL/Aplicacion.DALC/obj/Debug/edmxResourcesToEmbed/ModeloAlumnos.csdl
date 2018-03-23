@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BASE_ALUMNOSModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="ALUMNO">
+    <Key>
+      <PropertyRef Name="ID_ALUMNO" />
+    </Key>
+    <Property Name="ID_ALUMNO" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="RUT" Type="String" MaxLength="15" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="PRIMER_NOMBRE" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="SEGUNDO_NOMBRE" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="PRIMER_APELLIDO" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="SEGUNDO_APELLIDO" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="FECHA_NACIMIEMTO" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="FECHA_INGRESO" Type="DateTime" Nullable="false" Precision="0" />
+  </EntityType>
+  <EntityContainer Name="BASE_ALUMNOSEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="ALUMNOes" EntityType="Self.ALUMNO" />
+  </EntityContainer>
+</Schema>

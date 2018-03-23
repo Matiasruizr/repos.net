@@ -1,0 +1,9 @@
+C:\Users\cetecom\source\repos\ConectandoSQL\Aplicacion.DALC\bin\Debug\Aplicacion.DALC.dll.config
+C:\Users\cetecom\source\repos\ConectandoSQL\Aplicacion.DALC\bin\Debug\Aplicacion.DALC.dll
+C:\Users\cetecom\source\repos\ConectandoSQL\Aplicacion.DALC\bin\Debug\Aplicacion.DALC.pdb
+C:\Users\cetecom\source\repos\ConectandoSQL\Aplicacion.DALC\bin\Debug\EntityFramework.dll
+C:\Users\cetecom\source\repos\ConectandoSQL\Aplicacion.DALC\bin\Debug\EntityFramework.xml
+C:\Users\cetecom\source\repos\ConectandoSQL\Aplicacion.DALC\obj\Debug\Aplicacion.DALC.csprojResolveAssemblyReference.cache
+C:\Users\cetecom\source\repos\ConectandoSQL\Aplicacion.DALC\obj\Debug\Aplicacion.DALC.csproj.CoreCompileInputs.cache
+C:\Users\cetecom\source\repos\ConectandoSQL\Aplicacion.DALC\obj\Debug\Aplicacion.DALC.dll
+C:\Users\cetecom\source\repos\ConectandoSQL\Aplicacion.DALC\obj\Debug\Aplicacion.DALC.pdb
